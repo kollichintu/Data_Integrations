@@ -1,0 +1,1 @@
+[{"Emp_id": 1, "Create_Timestamp": "2023-01-04T13:02:14.297000", "Salary": 17000, "Emp_Name": "ABC"}, {"Emp_id": 2, "Create_Timestamp": "2023-01-04T13:01:57.703000", "Salary": 12000, "Emp_Name": "DEF"}, {"Emp_id": 3, "Create_Timestamp": "2023-01-04T13:01:57.717000", "Salary": 13000, "Emp_Name": "GHI"}]
